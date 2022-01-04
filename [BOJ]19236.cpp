@@ -101,8 +101,6 @@ int main()
 	cin.tie(NULL);
 	cout.tie(NULL);
 
-	
-
 	dir.push_back(make_pair(0, 0));
 	dir.push_back(make_pair(-1, 0));
 	dir.push_back(make_pair(-1, -1));
