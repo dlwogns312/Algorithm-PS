@@ -1,10 +1,6 @@
 #include <iostream>
 #include <vector>
-#include <algorithm>
-#include <queue>
-#include <cmath>
-#include <memory.h>
-#include <stack>
+#include <cstring>
 using namespace std;
 
 #define max(a,b) a>b ? a:b
