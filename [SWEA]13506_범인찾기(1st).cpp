@@ -1,4 +1,9 @@
-const int MAX_NUM = 1000000;
+#include <iostream>
+
+using namespace std;
+
+constexpr int MAX_NUM = 1000000;
+//const int MAX_NUM = 1000000;
 extern void putIn(int n, int a);
 extern int closeDoor(int n);
 extern void arrest(int n);
